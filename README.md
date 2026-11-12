@@ -11,15 +11,16 @@ Als je eenmaal je bestanden hebt verplaatst naar VSC, door de link van GitHub te
 
 WOENSDAG 11 NOVEMBER - MMD, MICRO-INTERACTIES EN FORMS:
 
-- We kregen eerst uitleg over de 5 soorten MMD's (Affordance en perceived affordance, feedback, feed forward, cue en prompt), en dit noteerde ik in mijn schrift. Ik had dit al vorig jaar behandeld, maar dat was weer een beetje weggevaagd. Hetzelfde geld voor de theorie over forms en micro-interacties en de 4 componenten die hierbij horen: trigger (waar begint het), rules (wat doet het), feedback (welke feedback geef je de gebruiker) en loops (gebeurd het als loop). Als opdracht gingen we een menu-kaart online bruikbaar maken. Hier staat de afbeelding in van hoe mijn ontwerp eruit zag: Ik hield rekening met de volgende voorwaarden:
+- We kregen eerst uitleg over de 5 soorten MMD's (Affordance en perceived affordance, feedback, feed forward, cue en prompt), en dit noteerde ik in mijn schrift. Ik had dit al vorig jaar behandeld, maar dat was weer een beetje weggevaagd. Hetzelfde geld voor de theorie over forms en micro-interacties en de 4 componenten die hierbij horen: trigger (waar begint het), rules (wat doet het), feedback (welke feedback geef je de gebruiker) en loops (gebeurd het als loop). Als opdracht gingen we een menukaart online bruikbaar maken. Hier staat de link in van hoe mijn ontwerp werkt:  Ik hield rekening met de volgende voorwaarden:
 
 1) De context (wat komen mensen doen?)
-
+- Een klant wilt wat bestellen bij een Aziatisch restaurant, waarbij hij snel zelf zijn bestelling wil opzetten. 
 
 2) De verdeling van de content.
-
+- Door verschillende ingrediënten te geven voor de verschillende rijen van het menu. Dit geeft variatie en is erg belangrijk, omdat het bijvoorbeeld zorgt voor een betere gastbeleving en positionering van het restaurant.
 
 3) Wat maakt het verrassend/leuk?
+- De visuele keuzes, een overzicht van de bestelling en een opvallende bestelknop. Hierdoor wordt alles verhelderd en kan de gebruiker gemakkelijk bestellen.
 
 SCHETSEN:
 
