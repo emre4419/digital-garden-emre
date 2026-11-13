@@ -11,7 +11,7 @@ Als je eenmaal je bestanden hebt verplaatst naar VSC, door de link van GitHub te
 
 WOENSDAG 11 NOVEMBER - MMD, MICRO-INTERACTIES EN FORMS:
 
-- We kregen eerst uitleg over de 5 soorten MMD's (Affordance en perceived affordance, feedback, feed forward, cue en prompt), en dit noteerde ik in mijn schrift. Ik had dit al vorig jaar behandeld, maar dat was weer een beetje weggevaagd. Hetzelfde geld voor de theorie over forms en micro-interacties en de 4 componenten die hierbij horen: trigger (waar begint het), rules (wat doet het), feedback (welke feedback geef je de gebruiker) en loops (gebeurd het als loop). Als opdracht gingen we een menukaart online bruikbaar maken. Hier staat de link in van hoe mijn ontwerp werkt:  Ik hield rekening met de volgende voorwaarden:
+- We kregen eerst uitleg over de 5 soorten MMD's (Affordance en perceived affordance, feedback, feed forward, cue en prompt), en dit noteerde ik in mijn schrift. Ik had dit al vorig jaar behandeld, maar dat was weer een beetje weggevaagd. Hetzelfde geld voor de theorie over forms en micro-interacties en de 4 componenten die hierbij horen: trigger (waar begint het), rules (wat doet het), feedback (welke feedback geef je de gebruiker) en loops (gebeurd het als loop). Als opdracht gingen we een menukaart online bruikbaar maken. Ik hield rekening met de volgende voorwaarden:
 
 1) De context (wat komen mensen doen?)
 - Een klant wilt wat bestellen bij een Aziatisch restaurant, waarbij hij snel zelf zijn bestelling wil opzetten. 
@@ -21,6 +21,12 @@ WOENSDAG 11 NOVEMBER - MMD, MICRO-INTERACTIES EN FORMS:
 
 3) Wat maakt het verrassend/leuk?
 - De visuele keuzes, een overzicht van de bestelling en een opvallende bestelknop. Hierdoor wordt alles verhelderd en kan de gebruiker gemakkelijk bestellen.
+
+Mijn ontwerp zag er zo uit:
+
+<img width="484" height="345" alt="image" src="https://github.com/user-attachments/assets/987f24f1-63ed-4798-8a21-3270ad681e3c" />
+
+Ik maakte o.a. gebruik van radiobuttons en checkboxes, omdat je bij stap 2 meerdere gerechten kan selecteren. Ook gebruikte ik de scrolfunctie voor de delen die iets te lang waren voor op de pagina, zodat die alsnog op een manier zichtbaar werden. De "bestellen knop maakte ik rood, en ernaast de prijs in een "limoenkleurig" vak. Hierdoor valt het allemaal wat meer op.
 
 SCHETSEN:
 
