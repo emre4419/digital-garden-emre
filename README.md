@@ -38,7 +38,10 @@ CSS: FONT MET KLEUR EN EFFECTEN:
 
 - Tijdens de les kregen we uitleg over verschillende delen code bij het .cc file. We deden 4 opdrachtjes die hierbij hoorden.
 
-Opdracht 1: <img width="553" height="398" alt="image" src="https://github.com/user-attachments/assets/25703874-d71d-49e1-aba5-7846d0f89a01" /> <img width="333" height="372" alt="image" src="https://github.com/user-attachments/assets/09a190a2-2a2b-463c-9eea-6df68028f08f" />
+Opdracht 1:
+
+<img width="553" height="398" alt="image" src="https://github.com/user-attachments/assets/25703874-d71d-49e1-aba5-7846d0f89a01" /> 
+
+<img width="333" height="372" alt="image" src="https://github.com/user-attachments/assets/09a190a2-2a2b-463c-9eea-6df68028f08f" />
 
 Opdracht 2:
-
