@@ -29,3 +29,16 @@ SCHETSEN:
 <img width="1663" height="1247" alt="image" src="https://github.com/user-attachments/assets/1ae19ea8-9e65-416e-a94a-b8b940270efd" />
 
 <img width="1680" height="1235" alt="image" src="https://github.com/user-attachments/assets/af6c51d6-b08f-44ba-8bd1-6a120d88e79c" />
+
+VRIJDAG 13 NOVEMBER - PRAKTISCHE CSS:
+
+- Voor de les moesten we een simpele HTML-pagina maken, die zag er zo uit bij mij: 
+
+CSS: FONT MET KLEUR EN EFFECTEN:
+
+- Tijdens de les kregen we uitleg over verschillende delen code bij het .cc file. We deden 4 opdrachtjes die hierbij hoorden.
+
+Opdracht 1 - Resultaat: <img width="553" height="398" alt="image" src="https://github.com/user-attachments/assets/25703874-d71d-49e1-aba5-7846d0f89a01" /> en Code: <img width="333" height="372" alt="image" src="https://github.com/user-attachments/assets/09a190a2-2a2b-463c-9eea-6df68028f08f" />
+
+Opdracht 2 - Resultaat:
+
