@@ -38,7 +38,9 @@ SCHETSEN:
 
 VRIJDAG 13 NOVEMBER - PRAKTISCHE CSS:
 
-- Voor de les moesten we een simpele HTML-pagina maken, die zag er zo uit bij mij: 
+- Voor de les moesten we een simpele HTML-pagina maken, we leerden weer over allerlei soorten elementen die je kan gebruken zowel visueel voor de website, als interactief. De HTML-pagina die ik heb gemaakt deze workshop zag er zo uit:
+
+https://codepen.io/editor/Emre_D/pen/01a1d17b-0f3c-7702-a647-cd4097f30b93
 
 CSS: FONT MET KLEUR EN EFFECTEN:
 
