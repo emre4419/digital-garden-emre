@@ -53,3 +53,8 @@ Opdracht 1:
 <img width="333" height="372" alt="image" src="https://github.com/user-attachments/assets/09a190a2-2a2b-463c-9eea-6df68028f08f" />
 
 Opdracht 2:
+
+
+MAANDAG 16 NOVEMBER - WERKGROEP:
+
+- We begonnen de les met een stand-up en hierbij moest je vertellen wat je hebt gedaan afgelopen week en waar je tegen aan loopt. Ik was momenteel bij opdracht 2 van de laatste workshop en ik vond het nog moeilijk om zelf de code te bedenken voor de css als je hierbj een opdracht krijgt.
