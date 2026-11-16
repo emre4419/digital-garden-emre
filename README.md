@@ -67,4 +67,9 @@ MAANDAG 16 NOVEMBER - WERKGROEP:
 
 <img width="458" height="63" alt="image" src="https://github.com/user-attachments/assets/4ead1262-40df-4dc6-b45a-763025bbc70c" />
 
-- Toen gingen we een artikel lezen over een digital garden en per groepje bespreken wat het inhoud. Zo merkte ik bijvoorbeeld op dat een digital garden nooit eindigt. En dat "visitors", alles mogen/kunnen bekijken, maar niks mogen "cop-pasten". Ook is een digital garden bedoelt voor iedereen en kan gebruikt worden dus voor inspiratie.
+- Toen gingen we een artikel lezen over een digital garden en per groepje bespreken wat het inhoud. Zo merkte ik bijvoorbeeld op dat een digital garden nooit eindigt. En dat "visitors", alles mogen/kunnen bekijken, maar niks mogen "copy-pasten". Ook is een digital garden bedoelt voor iedereen en kan gebruikt worden dus voor inspiratie.
+
+- We gingen meerdere websites verkennen door allerlei vragen erover te beantwoorden en we besproken dit direct in groepjes van 4 welke het beste is van elkaar en waarom.
+
+<img width="458" height="63" alt="image" src="https://github.com/user-attachments/assets/ae86a7d2-f873-42e7-8338-243797eb3a7d" />
+
