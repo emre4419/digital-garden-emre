@@ -71,5 +71,12 @@ MAANDAG 16 NOVEMBER - WERKGROEP:
 
 - We gingen meerdere websites verkennen door allerlei vragen erover te beantwoorden en we besproken dit direct in groepjes van 4 welke het beste is van elkaar en waarom.
 
-<img width="458" height="63" alt="image" src="https://github.com/user-attachments/assets/ae86a7d2-f873-42e7-8338-243797eb3a7d" />
+<img width="3000" height="2893" alt="image" src="https://github.com/user-attachments/assets/e377e789-ea9a-4ea0-8483-aff847a02ff9" />
 
+<img width="2000" height="1334" alt="image" src="https://github.com/user-attachments/assets/5d04840e-7427-4075-8f77-12c2d394941d" />
+
+- Leg uit wat een digital garden is en waarom dat anders is dan een reguliere website:
+
+- Vertel in 2 zinnen waar jouw Garden over gaat, en met welke content je dat gaat doen (beeld, tekst, sound, animatie enz):
+
+- Vertel kort welk idee van de Crazy 8 je het liefst zou willen uitvoeren/ verder zou willen onderzoeken:
