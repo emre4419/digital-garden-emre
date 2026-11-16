@@ -1,4 +1,4 @@
-*SPRINT 0*
+**SPRINT 0**
 
 MAANDAG 9 NOVEMBER - KICKOFF:
 
@@ -57,7 +57,7 @@ Opdracht 1:
 Opdracht 2:
 
 
-*SPRINT *
+**SPRINT 1**
 
 MAANDAG 16 NOVEMBER - WERKGROEP:
 
