@@ -58,3 +58,9 @@ Opdracht 2:
 MAANDAG 16 NOVEMBER - WERKGROEP:
 
 - We begonnen de les met een stand-up en hierbij moest je vertellen wat je hebt gedaan afgelopen week en waar je tegen aan loopt. Ik was momenteel bij opdracht 2 van de laatste workshop en ik vond het nog moeilijk om zelf de code te bedenken voor de css als je hierbj een opdracht krijgt.
+
+- We hadden best veel huiswerk voor de komende week ik maakte er een lijstje van:
+
+<img width="458" height="63" alt="image" src="https://github.com/user-attachments/assets/4ead1262-40df-4dc6-b45a-763025bbc70c" />
+
+- 
