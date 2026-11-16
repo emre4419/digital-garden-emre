@@ -1,3 +1,5 @@
+*SPRINT 0*
+
 MAANDAG 9 NOVEMBER - KICKOFF:
 
 - Leg uit wat een source hosting platform is en voor welke jij gekozen hebt:
@@ -55,6 +57,8 @@ Opdracht 1:
 Opdracht 2:
 
 
+*SPRINT *
+
 MAANDAG 16 NOVEMBER - WERKGROEP:
 
 - We begonnen de les met een stand-up en hierbij moest je vertellen wat je hebt gedaan afgelopen week en waar je tegen aan loopt. Ik was momenteel bij opdracht 2 van de laatste workshop en ik vond het nog moeilijk om zelf de code te bedenken voor de css als je hierbj een opdracht krijgt.
@@ -63,4 +67,4 @@ MAANDAG 16 NOVEMBER - WERKGROEP:
 
 <img width="458" height="63" alt="image" src="https://github.com/user-attachments/assets/4ead1262-40df-4dc6-b45a-763025bbc70c" />
 
-- 
+- Toen gingen we een artikel lezen over een digital garden en per groepje bespreken wat het inhoud. Zo merkte ik bijvoorbeeld op dat een digital garden nooit eindigt. En dat "visitors", alles mogen/kunnen bekijken, maar niks mogen "cop-pasten". Ook is een digital garden bedoelt voor iedereen en kan gebruikt worden dus voor inspiratie.
