@@ -99,4 +99,28 @@ file:///c%3A/Users/emred/OneDrive/Desktop/OPDRACHTEN%20HVA/OPDRACHTEN%20JAAR%202
 
 - Welke inspiratie kun je uit je 25 afbeeldingen halen? Stijl, een gevoel, vorm, enz. Ik kan vooral de herkenbare stijl van Nintendo en hun "trademark" ontwerpen terugvinden. Ook heb ik er bewust voor gekozen dat de grafiek van meest verkochte franchises van nintendo. Ik ben van plan hier ook iets mee te doen.
 
-- Wat zou je willen vertellen over het onderwerp aan een ander? en hoe zou je dat voor je kunnen zien? middels welke beeld, tekst, animatie, inhoudelijke content? (bijv. Ik wil voornamelijk afbeeldingen tonen, als een soort Pinterest, of ik wil muziek fragmenten laten horen, of ik gebruik korte teksten met eigen foto's). Zoals ik al eerder heb vermeld wil ik graag de tijdlijn van nintendo laten zien aan de gebruiker, omdat ik denk dat dit best interessant kan zijn en een goede look 
+- Wat zou je willen vertellen over het onderwerp aan een ander? en hoe zou je dat voor je kunnen zien? middels welke beeld, tekst, animatie, inhoudelijke content? (bijv. Ik wil voornamelijk afbeeldingen tonen, als een soort Pinterest, of ik wil muziek fragmenten laten horen, of ik gebruik korte teksten met eigen foto's). Zoals ik al eerder heb vermeld wil ik graag de tijdlijn van nintendo laten zien aan de gebruiker, omdat ik denk dat dit best interessant kan zijn en het voor een goede "look in the future" kan leiden. 
+
+- Ik wil mijn Digital Garden laten gaan over Nintendo en wil dat laten zien door een tijdlijn aan content te tonen.
+Ik begin met een stukje eigen content over de geschiedenis en de (mogelijke) toekomst. ​
+Als het begin is gemaakt kan ik mijn Garden verder uitbreiden door meer handige bronnen uit te werken in mijn digital garden.
+
+- Toen stapten we over naar Visual Research, waarbij we meerdere afbeeldingen gingen zoeken voor ons onderwerp, en ook een (mini-)styleguide  en een crazy 8 erbij gingen maken.
+
+Visual Research:
+
+
+
+Crazy 8:
+
+<img> src="images/crazy 8.png"</img>
+
+- Wat zijn de beste ideeën en waarom? ... en waarom de andere minder?
+
+- Zijn uitgangspunten terug te zien in de schetsen? Hoe is dat zichtbaar?
+
+- Is het idee online te vertalen? Hoe zouden vorm/ kleur of typografie in een schermontwerp kunnen worden getoond?
+
+- Is het idee expressief? Zit er genoeg uitdaging is? Ga je hiermee nieuwe CSS technieken leren? Zie je animaties of transities voor je?
+
+- Is het idee leuk en verrassend? Heb je zin om 'dit ontwerp' te maken?
