@@ -109,18 +109,45 @@ Als het begin is gemaakt kan ik mijn Garden verder uitbreiden door meer handige 
 
 Visual Research:
 
+![alt text](<images/stap 1 visual research.png>)
 
+![alt text](<images/stap 2 visual research.png>)
+
+![alt text](<images/stap 3 visual research.png>)
 
 Crazy 8:
 
-<image>src="../images/crazy 8.png"</image>
+![alt text](<images/crazy 8.png>)
 
-- Wat zijn de beste ideeën en waarom? ... en waarom de andere minder?
+- Wat zijn de beste ideeën en waarom? ... en waarom de andere minder? Ik vind dat aan het begin de schetsen goed zijn qua idee en inhoud, en daarna verlies ik mijn aandacht en wist ik het even niet meer. Ik maakte toen gewoon snel wat blokken en pijltjes bijvoorbeeld in de hoop dat ik later er nog iets uit kan halen.
 
-- Zijn uitgangspunten terug te zien in de schetsen? Hoe is dat zichtbaar?
+- Zijn uitgangspunten terug te zien in de schetsen? Hoe is dat zichtbaar? Ja ik heb mijn schetsen darop gebasseerd, dus dat je een tijdlijn hebt bijvoorbeeld en dat je hiermee kan switchen qua console en al de feitjes hiervan krijgt te zien. Dus ja ik heb wel bij alle schetsen geprobeerd mijn idee er tot stand te laten komen.
 
-- Is het idee online te vertalen? Hoe zouden vorm/ kleur of typografie in een schermontwerp kunnen worden getoond?
+- Is het idee online te vertalen? Hoe zouden vorm/ kleur of typografie in een schermontwerp kunnen worden getoond? Ik denk zoals ik in mijn Visual Research al zei, dat ik voor de elementen die zelf al een typografie hebben (franchises, logo, etc.), dat ik het daarvoor bestemde font gebruik, en anders ik zelf een eigen font gebruik en kleuren die ik zelf bij de digital garden vindt passen.
 
-- Is het idee expressief? Zit er genoeg uitdaging is? Ga je hiermee nieuwe CSS technieken leren? Zie je animaties of transities voor je?
+- Is het idee expressief? Zit er genoeg uitdaging is? Ga je hiermee nieuwe CSS technieken leren? Zie je animaties of transities voor je? Hier ben ik nog wel bang voor, aangezien ik alleen maar dingen kan vertellen over het onderwerp, en niet echt een "toffe" vorm van interactie of dergelijk erin verwerkt heb. Maar dit heeft tijd nodig...
 
-- Is het idee leuk en verrassend? Heb je zin om 'dit ontwerp' te maken?
+- Is het idee leuk en verrassend? Heb je zin om 'dit ontwerp' te maken? Ik denk voor mij wel, en ik denk ook dat andere misschien in geïnteresseerd in zijn. Ikzelf zou denken dat het nog wel goed kan uitpakken, als je bijvoorbeeld per tijd van de console alle dingen verteld wat er toen gaande was (dus consoles games, wie heeft ze bedacht waarom, hoe zijn deze games geëvolueerd t.o.v. eerdere (prototype)-versies, etc.). Dus er valt best wel wat over te vertellen. 
+
+
+
+- Leg uit waar het Visual Research in 3 stappen naartoe werkt: Vanuit een eerste stap (een sfeerwoord) ga je op zoek naar direct visueel beeld (hetgeen direct bij je opkomt). Je benoemt kenmerken uit deze beelden waarmee je in een tweede stap naar een abstracte vertaling gaat (vormen, kleuren en typografie). In de derde stap formuleer je uitgangspunten om mee te schetsen.
+
+- Vertel in 2 zinnen waar jouw Garden over gaat, en met welke content je dat gaat doen (beeld, tekst, sound, animatie enz): Mijn digital garden gaat over het onderwerp: Nintendo, en wat ik in mijn garden wil gaan doen is om alle consoles op een tijdlijn te laten zien en per console een kleine (interactieve) animatie te laten plaatsvinden, en bij elke console alles laten zien wat Nintendo gemaakt heeft die tijd en waarom, en hoe het geëvolueerd is t.o.v. eerdere (prototype-)schetsen/games. Ik ben van plan mijn eigen typografie te gebruiken, mits het elementen zijn die er al een hebben en ik ben van plan zelf goede kleuren uit te kiezen voor mijn ontwerp.
+
+- Vertel kort welk idee van de Crazy 8 je het liefst zou willen uitvoeren/ verder zou willen onderzoeken: Ik zou dus het liefst een crazy 8 willen maken op basis van de veranderingen van de creaties van Nintendo, en de gameconsoles die veranderd zijn met al hun games en alles noem maar op.
+
+
+MOOIE KLEUREN, GRADIENTS, PATRONEN:
+
+- In dit practicum leerde ik alles over hoe je kleuren kan noteren in code. je kan bijvoorbeeld HSL, RGB, Hexcode en display-p3/rec2020
+
+- Hierna leerden we over gradients, je hebt 5 verschillende types: linear-gradient, radial-gradient, conic-gradient, repeating-gradient en multiple-gradients, wij gingen in deze les hier verder mee oefenen.
+
+Opdracht 1:
+
+![alt text](<images/kleuren en grids oefening 1.png>)
+
+Opdracht 2:
+
+![alt text](<images/kleuren en grids oefening 2.png>)
