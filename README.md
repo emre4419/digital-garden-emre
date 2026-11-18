@@ -113,7 +113,7 @@ Visual Research:
 
 Crazy 8:
 
-<img> src="images/crazy 8.png"</img>
+<image>src="../images/crazy 8.png"</image>
 
 - Wat zijn de beste ideeën en waarom? ... en waarom de andere minder?
 
