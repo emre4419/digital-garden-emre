@@ -75,8 +75,28 @@ MAANDAG 16 NOVEMBER - WERKGROEP:
 
 <img width="2000" height="1334" alt="image" src="https://github.com/user-attachments/assets/5d04840e-7427-4075-8f77-12c2d394941d" />
 
-- Leg uit wat een digital garden is en waarom dat anders is dan een reguliere website:
+- Leg uit wat een digital garden is en waarom dat anders is dan een reguliere website: Een digital garden is een persoonlijke online ruimte waar je ideeën, notities en projecten verzamelt en laat groeien. In tegenstelling tot een normale website of blog is een digital garden nooit echt af, maar voortdurend in ontwikkeling.
 
-- Vertel in 2 zinnen waar jouw Garden over gaat, en met welke content je dat gaat doen (beeld, tekst, sound, animatie enz):
+- Vertel in 2 zinnen waar jouw Garden over gaat, en met welke content je dat gaat doen (beeld, tekst, sound, animatie enz): Mijn digital garden gaat over het gamebedrijf: Nintendo, omdat ik her veel vanaf weet en hier mijn passie (soort van) licht. Ik ben van plan om bijvoorbeeld iets van een tijdlijn te maken voor de website, waarin je alle consoles en franchises van Nintendo per tijdperk kunt zien en hoe ze door de jaren heen geëvolueerd zijn.
 
-- Vertel kort welk idee van de Crazy 8 je het liefst zou willen uitvoeren/ verder zou willen onderzoeken:
+- Vertel kort welk idee van de Crazy 8 je het liefst zou willen uitvoeren/ verder zou willen onderzoeken: Ik zou dus het liefst een crazy 8 willen maken op basis van de veranderingen van de creaties van Nintendo.
+
+DINSDAG 17 NOVEMBER - LIGHT EN DARK:
+
+- Ik leerde in dit practicum o.a. wat een custom property is, hoe je het vermeld en dat je het bovenaan in de .css-file moet plaatsen.
+
+WOENSDAG 18 NOVEMBER - WERKGROEP:
+
+- Ik maakte voor de les een korte introductiepresentatie over mijn gekozen onderwerp en ik beantwoorde daarna een paar vragen erover:
+
+file:///c%3A/Users/emred/OneDrive/Desktop/OPDRACHTEN%20HVA/OPDRACHTEN%20JAAR%202/SIDE-OPDRACHTEN%20JAAR%202/digital-garden-emre/oefeningen/presentatie/index.html#1
+
+- Wat is voor jou de essentie van wat je hebt gepresenteerd qua onderwerp en geschreven/beeldende content? Dat de belangrijkste elementen vanuit mijn onderwerp tevoorschijn komen en dat je voor jouw digital garden, ideeën kan bedenken ervoor.
+
+- Heeft 'de ander' een aanvulling op je onderwerp? Ze vinden het nog niet duidelijk hoe ik dit ga doen en of dit alles wordt (voor mij is dit ook nog niet duidelijk)
+
+- Wat is het karakter/ de uitstraling/ het gevoel dat bij het onderwerp past? (bijv. stoer, hip, vrolijk, dynamisch, eenvoudig, enz.) Voor mij is dat een vorm van nostalgie, vrolijkheid en misschien nog een potentiële toevoeging van gamification wat erin voor kan komen/ik erin kan verwerken.
+
+- Welke inspiratie kun je uit je 25 afbeeldingen halen? Stijl, een gevoel, vorm, enz. Ik kan vooral de herkenbare stijl van Nintendo en hun "trademark" ontwerpen terugvinden. Ook heb ik er bewust voor gekozen dat de grafiek van meest verkochte franchises van nintendo. Ik ben van plan hier ook iets mee te doen.
+
+- Wat zou je willen vertellen over het onderwerp aan een ander? en hoe zou je dat voor je kunnen zien? middels welke beeld, tekst, animatie, inhoudelijke content? (bijv. Ik wil voornamelijk afbeeldingen tonen, als een soort Pinterest, of ik wil muziek fragmenten laten horen, of ik gebruik korte teksten met eigen foto's). Zoals ik al eerder heb vermeld wil ik graag de tijdlijn van nintendo laten zien aan de gebruiker, omdat ik denk dat dit best interessant kan zijn en een goede look 
