@@ -52,10 +52,8 @@ Opdracht 1:
 
 <img width="553" height="398" alt="image" src="https://github.com/user-attachments/assets/25703874-d71d-49e1-aba5-7846d0f89a01" /> 
 
-<img width="333" height="372" alt="image" src="https://github.com/user-attachments/assets/09a190a2-2a2b-463c-9eea-6df68028f08f" />
-
-Opdracht 2:
-
+<img width="333" height="372" alt="image" src="https://github.com/user-attachments/assets/
+09a190a2-2a2b-463c-9eea-6df68028f08f" />
 
 **SPRINT 1**
 
@@ -84,6 +82,8 @@ MAANDAG 16 NOVEMBER - WERKGROEP:
 DINSDAG 17 NOVEMBER - LIGHT EN DARK:
 
 - Ik leerde in dit practicum o.a. wat een custom property is, hoe je het vermeld en dat je het bovenaan in de .css-file moet plaatsen.
+
+
 
 WOENSDAG 18 NOVEMBER - WERKGROEP:
 
@@ -129,14 +129,15 @@ Crazy 8:
 
 - Is het idee leuk en verrassend? Heb je zin om 'dit ontwerp' te maken? Ik denk voor mij wel, en ik denk ook dat andere misschien in geïnteresseerd in zijn. Ikzelf zou denken dat het nog wel goed kan uitpakken, als je bijvoorbeeld per tijd van de console alle dingen verteld wat er toen gaande was (dus consoles games, wie heeft ze bedacht waarom, hoe zijn deze games geëvolueerd t.o.v. eerdere (prototype)-versies, etc.). Dus er valt best wel wat over te vertellen. 
 
-
-
 - Leg uit waar het Visual Research in 3 stappen naartoe werkt: Vanuit een eerste stap (een sfeerwoord) ga je op zoek naar direct visueel beeld (hetgeen direct bij je opkomt). Je benoemt kenmerken uit deze beelden waarmee je in een tweede stap naar een abstracte vertaling gaat (vormen, kleuren en typografie). In de derde stap formuleer je uitgangspunten om mee te schetsen.
 
 - Vertel in 2 zinnen waar jouw Garden over gaat, en met welke content je dat gaat doen (beeld, tekst, sound, animatie enz): Mijn digital garden gaat over het onderwerp: Nintendo, en wat ik in mijn garden wil gaan doen is om alle consoles op een tijdlijn te laten zien en per console een kleine (interactieve) animatie te laten plaatsvinden, en bij elke console alles laten zien wat Nintendo gemaakt heeft die tijd en waarom, en hoe het geëvolueerd is t.o.v. eerdere (prototype-)schetsen/games. Ik ben van plan mijn eigen typografie te gebruiken, mits het elementen zijn die er al een hebben en ik ben van plan zelf goede kleuren uit te kiezen voor mijn ontwerp.
 
 - Vertel kort welk idee van de Crazy 8 je het liefst zou willen uitvoeren/ verder zou willen onderzoeken: Ik zou dus het liefst een crazy 8 willen maken op basis van de veranderingen van de creaties van Nintendo, en de gameconsoles die veranderd zijn met al hun games en alles noem maar op.
 
+- Als huiswerk gingen we 4 bredere schetsen maken, deels gebasseerd op de crazy 8 en dat ging net wat meer over de lay-out van je digital-garden.
+
+![alt text](<images/extra schetsen week 2.jpg>)
 
 MOOIE KLEUREN, GRADIENTS, PATRONEN:
 
@@ -151,3 +152,6 @@ Opdracht 1:
 Opdracht 2:
 
 ![alt text](<images/kleuren en grids oefening 2.png>)
+
+VRIJDAG 20 NOVEMBER - WERKGROEP:
+
