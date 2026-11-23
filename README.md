@@ -81,7 +81,13 @@ MAANDAG 16 NOVEMBER - WERKGROEP:
 
 DINSDAG 17 NOVEMBER - LIGHT EN DARK:
 
-- Ik leerde in dit practicum o.a. wat een custom property is, hoe je het vermeld en dat je het bovenaan in de .css-file moet plaatsen.
+- Ik leerde in dit practicum o.a. wat een custom property is, hoe je het vermeld en dat je het bovenaan in de .css-file moet plaatsen. 
+
+Opdracht 1:
+
+![alt text](<images/dark en light mode opdracht 1.png>)
+
+Opdracht 2:
 
 
 
@@ -154,4 +160,51 @@ Opdracht 2:
 ![alt text](<images/kleuren en grids oefening 2.png>)
 
 VRIJDAG 20 NOVEMBER - WERKGROEP:
+
+Ik kon helaas niet aanwezig zijn bij de lessen. De opdrachten voor vandaag waren: 1. Een duidelijke structuur opbouwen van je digital garden in HTML & CSS, en het practicum van vandaag: grid 101 volgen en zoveel mogelijk ervan maken & vastleggen.
+
+- 
+
+GRID 101 EN MEDIA QUERIES 101:
+
+- In dit practicum leerde ik over grids en dat je hiervoor allerlei smaakjes kon definiërem in code. (bijvoorbeeld aanpassingen over columns of rijen, of dat je je eigen schets moest aangeven met lijnen die je vervolgens in code ging "registreren"). Ook leerde ik over media queries deze kun je gebruiken voor het geval je pagina net wat anders is (dan stapt het over op media queries.)
+
+Opdracht 1:
+
+![alt text](<images/grids opdracht 1.png>)
+
+Opdracht 2:
+
+![alt text](<images/grids opdracht 2.png>)
+
+Opdracht 3:
+
+![alt text](<images/grids opdracht 3.png>)
+
+MAANDAG 23 NOVEMBER - WERKGROEP:
+
+- Vandaag reden de bussen niet en kan ik niet komen, helaas. Ik besloot thuis verder te werken aan wat we moesten doen. Eerst was er een bi-weekly geek, waarbij we een aantal hoofdvragen centraal hebben staan tijdens het maken van het ontwerp. Bijvoorbeeld: "Is internettoegang een mensenrecht?" of "Zijn overheden verantwoordelijk voor de betrouwbaarheid van het internet?" deze vragen beantwoorden wij op basis van onderzoek en artikelen.
+
+- Is internettoegang een mensenrecht? Ja, internettoegang zou tegenwoordig als een mensenrecht beschouwd moeten worden. Internet is belangrijk voor onderwijs, werk, communicatie en toegang tot informatie. Zonder internet kunnen mensen minder goed deelnemen aan de moderne samenleving. Daarom zou iedereen toegang moeten hebben tot betaalbaar en betrouwbaar internet.
+
+- Zijn overheden verantwoordelijk voor de betrouwbaarheid van het internet? Ja, gedeeltelijk. Overheden moeten ervoor zorgen dat mensen veilig en betrouwbaar gebruik kunnen maken van internet. Ze kunnen regels opstellen tegen cybercriminaliteit, online fraude en misinformatie. Ook moeten ze de digitale infrastructuur beschermen. Tegelijkertijd zijn internetproviders en technologiebedrijven zelf ook verantwoordelijk voor de kwaliteit en veiligheid van hun diensten.
+
+- Mijn onderwerp was nog niet zo helder als "idee" zegmaar, dus verfijnde ik mijn idee tot dit:
+
+- De hele website draait om een interactieve tijdlijn. Je kunt door de jaren heen scrollen of zelf een bepaald jaar selecteren. Bij elke console is er een andere lay-out/UI. Daarnaast staan er ook andere dingen bij, zoals: de games die toen uitkwamen of cijfers die de bezoeker kan vergelijken met een ander jaar van Nintendo, of tot slot belangrijke gebeurtenissen die dat jaar plaatsvonde, dat kan van alles zijn (waarom Nintendo voor dit of dat koos, of wat de wereld ervan vond). Maar voor nu (voor het einde van de eeste sprint, focuste ik mij op de eerste pagina die we op vrijdag af gingen maken). Hierop wil ik graag nog itereren d.m.v. wat betere schetsen ervan. Dit wordt nu wat makkelijker, omdat ik ze uitgebreider kan maken, doordat ik nu een concreet idee heb neergezet. Ook kan ik nu bijvoorbeeld diverse HTML-elementen op mijn schets toevoegen.
+
+Mijn schetsen van de One Pager:
+
+
+
+- Ik besloot X aan te houden, want hierin kan je zien dat Y, omdat Z.
+
+- Dus ik begon hierna direct met het begin van de code van de digital garden.
+
+
+- Leg uit wanneer een website 'lelijk' wordt en geef voorbeelden wat je kan doen om deze 'lelijke' onderdelen te fixen?
+
+- Vertel welke volgende stap je neemt om je website responsive te maken.
+
+- Kun je het ontwerp en de bouw van je eigen Garden (zo uit je hoofd) onderbouwen in Webby vocabulair?
 
