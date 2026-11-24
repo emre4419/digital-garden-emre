@@ -89,7 +89,13 @@ Opdracht 1:
 
 Opdracht 2:
 
+![alt text](<images/dark en light mode opdracht 2 light.png>)
 
+![alt text](<images/dark en light mode opdracht 2 dark.png>)
+
+Opdracht 3:
+
+![alt text](<images/dark en light mode opdracht 3.png>)
 
 WOENSDAG 18 NOVEMBER - WERKGROEP:
 
@@ -161,9 +167,7 @@ Opdracht 2:
 
 VRIJDAG 20 NOVEMBER - WERKGROEP:
 
-Ik kon helaas niet aanwezig zijn bij de lessen. De opdrachten voor vandaag waren: 1. Een duidelijke structuur opbouwen van je digital garden in HTML & CSS, en het practicum van vandaag: grid 101 volgen en zoveel mogelijk ervan maken & vastleggen.
-
-- 
+- Ik kon helaas niet aanwezig zijn bij de lessen. De opdrachten voor vandaag waren: 1. Een duidelijke structuur opbouwen van je digital garden in HTML & CSS, en het practicum van vandaag: grid 101 volgen en zoveel mogelijk ervan maken & vastleggen.
 
 GRID 101 EN MEDIA QUERIES 101:
 
@@ -189,22 +193,37 @@ MAANDAG 23 NOVEMBER - WERKGROEP:
 
 - Zijn overheden verantwoordelijk voor de betrouwbaarheid van het internet? Ja, gedeeltelijk. Overheden moeten ervoor zorgen dat mensen veilig en betrouwbaar gebruik kunnen maken van internet. Ze kunnen regels opstellen tegen cybercriminaliteit, online fraude en misinformatie. Ook moeten ze de digitale infrastructuur beschermen. Tegelijkertijd zijn internetproviders en technologiebedrijven zelf ook verantwoordelijk voor de kwaliteit en veiligheid van hun diensten.
 
-- Mijn onderwerp was nog niet zo helder als "idee" zegmaar, dus verfijnde ik mijn idee tot dit:
-
-- De hele website draait om een interactieve tijdlijn. Je kunt door de jaren heen scrollen of zelf een bepaald jaar selecteren. Bij elke console is er een andere lay-out/UI. Daarnaast staan er ook andere dingen bij, zoals: de games die toen uitkwamen of cijfers die de bezoeker kan vergelijken met een ander jaar van Nintendo, of tot slot belangrijke gebeurtenissen die dat jaar plaatsvonde, dat kan van alles zijn (waarom Nintendo voor dit of dat koos, of wat de wereld ervan vond). Maar voor nu (voor het einde van de eeste sprint, focuste ik mij op de eerste pagina die we op vrijdag af gingen maken). Hierop wil ik graag nog itereren d.m.v. wat betere schetsen ervan. Dit wordt nu wat makkelijker, omdat ik ze uitgebreider kan maken, doordat ik nu een concreet idee heb neergezet. Ook kan ik nu bijvoorbeeld diverse HTML-elementen op mijn schets toevoegen.
+- Mijn onderwerp was nog niet zo helder als "idee" zegmaar, dus verfijnde ik mijn idee tot dit: De hele website draait om een interactieve tijdlijn. Je kunt door de jaren heen scrollen of zelf een bepaald jaar selecteren. Bij elke console is er een andere lay-out/UI. Daarnaast staan er ook andere dingen bij, zoals: de games die toen uitkwamen of cijfers die de bezoeker kan vergelijken met een ander jaar van Nintendo, of tot slot belangrijke gebeurtenissen die dat jaar plaatsvonde, dat kan van alles zijn (waarom Nintendo voor dit of dat koos, of wat de wereld ervan vond). Maar voor nu (voor het einde van de eeste sprint, focuste ik mij op de eerste pagina die we op vrijdag af gingen maken). Hierop wil ik graag nog itereren d.m.v. wat betere schetsen ervan. Dit wordt nu wat makkelijker, omdat ik ze uitgebreider kan maken, doordat ik nu een concreet idee heb neergezet. Ook kan ik nu bijvoorbeeld diverse HTML-elementen op mijn schets toevoegen.
 
 Mijn schetsen van de One Pager:
 
+![alt text](<images/4 schetsen.jpg>)
+
+- Ik besloot de tijdlijn aan te houden, want hierin kan je mijn idee goed en gemakkelijk in terugzien, omdat als de tijdlijn centraal op de eerste pagina staat, dan valt hij meer op en dat is natuurlijk ook de hele bedoeling van mijn digital garden. Daarom heb ik besloten nog niks te laten zien van enkele consoles/franchises/grafieken, omdat dit pas actief is na de eerste interactie. Dus ik begon hierna direct met het begin van de code van de digital garden.
 
 
-- Ik besloot X aan te houden, want hierin kan je zien dat Y, omdat Z.
+- Leg uit wanneer een website 'lelijk' wordt en geef voorbeelden wat je kan doen om deze 'lelijke' onderdelen te fixen: Als je elementen gebruikt die als "saai" worden beschouwt, (een maximale breedte van 30em, of een erg langwerpige pagina die alleen maar wit is). Dit kun je gemakkelijk oplossen door het HTML-element aan te spreken die hierover gaat, en daarop in het CSS een waarde aan te passen. Dus om kortweg de theorie van de practica toe te passen op de elementen die niet zo gebruiksvriendelijk zijn.
 
-- Dus ik begon hierna direct met het begin van de code van de digital garden.
+- Vertel welke volgende stap je neemt om je website responsive te maken: Door met meerdere mensen naar jouw ontwerp te kijken en die dan te vergelijken met een ander voorbeeld van responsive design, terwijl jullie allebei praten met wat er mis is en wat beter kan. Hierdoor is het beter om gevoel te krijgen en ook word je een betere ontwerper als het je lukt onder woorden te brengen waarom iets wel of juist niet werkt.
 
+- Kun je het ontwerp en de bouw van je eigen Garden (zo uit je hoofd) onderbouwen in Webby vocabulair: Opzich wel ik heb net nog schetsen gemaakt en rekenng gehouden met welke HTML-termen hierin voorkomen/welke ik moet gaan gebruiken. Dat was best lastig, omdat je als schetser al snel geneigd bent om uitgebreidere elementen te schetsen die jouw schets en betere look geven. Het probleem is hierdoor echter dat je niet weet hoe je die in code toepast. Voorbeeldje: ik schetste bijvoorbeeld een pijl of een tijdlijn of dergelijk en ik moest daar wel echt research voor doen voor hoe ik die in HTML CSS toepas.
 
-- Leg uit wanneer een website 'lelijk' wordt en geef voorbeelden wat je kan doen om deze 'lelijke' onderdelen te fixen?
+DINSDAG 24 NOVEMBER - EVERYTHING IMAGES:
 
-- Vertel welke volgende stap je neemt om je website responsive te maken.
+- In dit practicum leerde ik over de verschillende soorten images en hoe je die vastlegt in HTML/CSS, bijvoorbeeld Vector hoort in een SVG bestand, terwijl Pixel in een WEBP of AVIF bestand kan. Verder gingen we hiermee gewoon oefenen.
 
-- Kun je het ontwerp en de bouw van je eigen Garden (zo uit je hoofd) onderbouwen in Webby vocabulair?
+Opdracht 1:
 
+![alt text](<images/everything images opdracht 1 code.png>)
+
+![alt text](<images/everything images opdracht 1 resultaat.png>)
+
+Opdracht 2:
+
+![alt text](<images/everything images opdracht 2 code.png>)
+
+![alt text](<images/everything images opdracht 2 resultaat.png>)
+
+WOENSDAG 25 NOVEMBER - WERKGROEP:
+
+- 
