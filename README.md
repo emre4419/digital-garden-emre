@@ -226,4 +226,12 @@ Opdracht 2:
 
 WOENSDAG 25 NOVEMBER - WERKGROEP:
 
-- 
+- Vandaag in de les ging het over ontwerpprincipes. We leerden alle smaakjes ervan en welke je wanneer het beste kunt gebruiken. Het ging vandaag o.a. weer over grid, hierarchie, etc.
+
+- Ik begon nu met de code van mijn digital garden (ik heb nog niet echt te tijd en ruimte in de les en buiten de les ervoor gehad)...
+
+- Noem 3 Gestalt- of Design principes op en laat de ander uitleggen wat ze betekenen en doen: Nabijheid = Elementen die dicht bij elkaar staan, worden gezien als één groep of als gerelateerd, zelfs als ze verschillen in vorm of kleur. Continuïteit = Het oog volgt van nature vloeiende lijnen, curven en uitgelijnde paden in plaats van abrupt van richting te veranderen. Sluiting = De hersenen vullen ontbrekende lijnen of gaten zelf aan om onvolledige vormen toch als één herkenbaar geheel te zien.
+
+- Een grid biedt ruimte om te spelen (vrijheid), maar tegelijkertijd ook eenheid en structuur (vastigheid). Wat wordt hiermee bedoeld: Een grid werkt als een onzichtbaar skelet voor je ontwerp. Het bestaat uit vaste kolommen, rijen en marges. Een grid zorgt er dus juist voor dat je creatiever kunt zijn zonder dat het een rommeltje wordt. De structuur van een grid zorgt voor rust, consistentie en hiërarchie in de website.
+
+- Welk principe neem je mee in een laatste iteratie van je eigen Garden: 1: Gelijkheid, dit ga ik toepassen voor de tijdlijn in mijn ontwerp. Zoals ik al had vermeldt ik ga de tijdlijn centraal zetten, en dan is het wel handig als hij consistent en goed verdeelt is. Ook met de buttons bovenin het scherm wil ik gelijkheid gebruiken, maar ook continuïteit en sluiting passen goed bij mijn ontwerp, omdat de delen die nog niet te zien zijn, interacteerbaar worden en de bezoeker vanzelf het einde eraan wilt bekennen en dus dat het brein ontbrekende delen aanvult om een vorm compleet te zien.
