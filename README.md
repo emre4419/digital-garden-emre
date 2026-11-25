@@ -85,17 +85,17 @@ DINSDAG 17 NOVEMBER - LIGHT EN DARK:
 
 Opdracht 1:
 
-![alt text](<images/dark en light mode opdracht 1.png>)
+![readme-images/dark en light mode opdracht 1.png](<readme-images/dark en light mode opdracht 1.png>)
 
 Opdracht 2:
 
-![alt text](<images/dark en light mode opdracht 2 light.png>)
+![alt text](<readme-images/dark en light mode opdracht 2 light.png>)
 
-![alt text](<images/dark en light mode opdracht 2 dark.png>)
+![alt text](<readme-images/dark en light mode opdracht 2 dark.png>)
 
 Opdracht 3:
 
-![alt text](<images/dark en light mode opdracht 3.png>)
+![alt text](<readme-images/dark en light mode opdracht 3.png>)
 
 WOENSDAG 18 NOVEMBER - WERKGROEP:
 
@@ -121,15 +121,15 @@ Als het begin is gemaakt kan ik mijn Garden verder uitbreiden door meer handige 
 
 Visual Research:
 
-![alt text](<images/stap 1 visual research.png>)
+![alt text](<readme-images/stap 1 visual research.png>)
 
-![alt text](<images/stap 2 visual research.png>)
+![alt text](<readme-images/stap 2 visual research.png>)
 
-![alt text](<images/stap 3 visual research.png>)
+![alt text](<readme-images/stap 3 visual research.png>)
 
 Crazy 8:
 
-![alt text](<images/crazy 8.png>)
+![alt text](<readme-images/crazy 8.png>)
 
 - Wat zijn de beste ideeën en waarom? ... en waarom de andere minder? Ik vind dat aan het begin de schetsen goed zijn qua idee en inhoud, en daarna verlies ik mijn aandacht en wist ik het even niet meer. Ik maakte toen gewoon snel wat blokken en pijltjes bijvoorbeeld in de hoop dat ik later er nog iets uit kan halen.
 
@@ -149,7 +149,7 @@ Crazy 8:
 
 - Als huiswerk gingen we 4 bredere schetsen maken, deels gebasseerd op de crazy 8 en dat ging net wat meer over de lay-out van je digital-garden.
 
-![alt text](<images/extra schetsen week 2.jpg>)
+readme-images/extra schetsen week 2 copy.png
 
 MOOIE KLEUREN, GRADIENTS, PATRONEN:
 
@@ -159,11 +159,11 @@ MOOIE KLEUREN, GRADIENTS, PATRONEN:
 
 Opdracht 1:
 
-![alt text](<images/kleuren en grids oefening 1.png>)
+![alt text](<readme-images/kleuren en grids oefening 1.png>)
 
 Opdracht 2:
 
-![alt text](<images/kleuren en grids oefening 2.png>)
+![alt text](<readme-images/kleuren en grids oefening 2.png>)
 
 VRIJDAG 20 NOVEMBER - WERKGROEP:
 
@@ -175,15 +175,15 @@ GRID 101 EN MEDIA QUERIES 101:
 
 Opdracht 1:
 
-![alt text](<images/grids opdracht 1.png>)
+![alt text](<readme-images/grids opdracht 1.png>)
 
 Opdracht 2:
 
-![alt text](<images/grids opdracht 2.png>)
+![alt text](<readme-images/grids opdracht 2.png>)
 
 Opdracht 3:
 
-![alt text](<images/grids opdracht 3.png>)
+![alt text](<readme-images/grids opdracht 3.png>)
 
 MAANDAG 23 NOVEMBER - WERKGROEP:
 
@@ -197,7 +197,7 @@ MAANDAG 23 NOVEMBER - WERKGROEP:
 
 Mijn schetsen van de One Pager:
 
-![alt text](<images/4 schetsen.jpg>)
+![alt text](<readme-images/4 schetsen week 3.png>)
 
 - Ik besloot de tijdlijn aan te houden, want hierin kan je mijn idee goed en gemakkelijk in terugzien, omdat als de tijdlijn centraal op de eerste pagina staat, dan valt hij meer op en dat is natuurlijk ook de hele bedoeling van mijn digital garden. Daarom heb ik besloten nog niks te laten zien van enkele consoles/franchises/grafieken, omdat dit pas actief is na de eerste interactie. Dus ik begon hierna direct met het begin van de code van de digital garden.
 
@@ -214,15 +214,15 @@ DINSDAG 24 NOVEMBER - EVERYTHING IMAGES:
 
 Opdracht 1:
 
-![alt text](<images/everything images opdracht 1 code.png>)
+![alt text](<readme-images/everything images opdracht 1 code.png>)
 
-![alt text](<images/everything images opdracht 1 resultaat.png>)
+![alt text](<readme-images/everything images opdracht 1 resultaat.png>)
 
 Opdracht 2:
 
-![alt text](<images/everything images opdracht 2 code.png>)
+![alt text](<readme-images/everything images opdracht 2 code.png>)
 
-![alt text](<images/everything images opdracht 2 resultaat.png>)
+![alt text](<readme-images/everything images opdracht 2 resultaat.png>)
 
 WOENSDAG 25 NOVEMBER - WERKGROEP:
 
