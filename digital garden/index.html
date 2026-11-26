@@ -1,13 +1,25 @@
 <!doctype html>
-<html lang="en">
+<html lang="nl">
   <head>
     <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="author" content="jouw naam" />
     <meta name="color-scheme" content="dark light" />
     
-    <title>Digital Garden</title>
+    <title>Digital Garden van Emre</title>
     <link rel="stylesheet" href="./css/normal.css" />
+
+    <label>
+    <input type="radio" name="theme" value="auto-theme" checked> auto
+    </label>
+
+    <label>
+    <input type="radio" name="theme" value="light-theme"> licht
+    </label>
+
+    <label>
+    <input type="radio" name="theme" value="dark-theme">donker
+    </label>
 
     <script
       data-page="https://example.com"
@@ -15,30 +27,99 @@
       defer
     ></script>
   </head>
-  
+
   <body>
+    <a href="index.html" class="home-button" aria-label="Home">
+    <svg xmlns="http://www.w3.org/2000/svg" 
+         width="40" height="40" 
+         viewBox="0 0 24 24" 
+         fill="none" 
+         stroke="white" 
+         stroke-width="2" 
+         stroke-linecap="round" 
+         stroke-linejoin="round">
+        <path d="m3 10 9-7 9 7"/>
+        <path d="M5 9v12h14V9"/>
+        <path d="M9 21v-8h6v8"/>
+    </svg>
+    </a>
+
     <header>
-      <h1>Nintendo</h1>
-      <nav>
-        <ul>
-          <li><a href="index.html">Home</a></li>
-          <li><a href="README.md">Learning Log</a></li>
-        </ul>
-      </nav>
+      <img src="./images/nintendo logo.png" alt="Het logo van Nintendo">
     </header>
 
+    <h2>Kies je console!</h2>
+
   <main>
-    <article>
-      <h2>Een titel</h2>
-      <p>Alinea...</p>
-    </article>
+  <section class="timeline">
+    
+    <div class="timeline-line"></div>
+    <div class="timeline-items">
 
-    <article>
-      <h2>Nog een titel</h2>
-      <p>Nog een alinea...</p>
-    </article>
+      <a href="#nes" class="timeline-item">
+        <span class="timeline-dot"></span>
+        <span>NES</span>
+      </a>
+
+      <a href="#gameboy" class="timeline-item">
+        <span class="timeline-dot"></span>
+        <span>GameBoy</span>
+      </a>
+
+      <a href="#snes" class="timeline-item">
+        <span class="timeline-dot"></span>
+        <span>SNES</span>
+      </a>
+
+      <a href="#n64" class="timeline-item">
+        <span class="timeline-dot"></span>
+        <span>N64</span>
+      </a>
+
+      <a href="#gameboy advance" class="timeline-item">
+        <span class="timeline-dot"></span>
+        <span>GameBoy Advance</span>
+      </a>
+
+      <a href="#gamecube" class="timeline-item">
+        <span class="timeline-dot"></span>
+        <span>GameCube</span>
+      </a>
+      
+      <a href="#ds" class="timeline-item">
+        <span class="timeline-dot"></span>
+        <span>DS</span>
+      </a>
+
+      <a href="#wii" class="timeline-item">
+        <span class="timeline-dot"></span>
+        <span>Wii</span>
+      </a>
+
+      <a href="#3ds" class="timeline-item">
+        <span class="timeline-dot"></span>
+        <span>3DS</span>
+      </a>
+
+      <a href="#wii u" class="timeline-item">
+        <span class="timeline-dot"></span>
+        <span>Wii U</span>
+      </a>
+
+      <a href="#switch" class="timeline-item">
+        <span class="timeline-dot"></span>
+        <span>Switch</span>
+      </a>
+    </div>
+  </section>
   </main>
-
-  <footer></footer>
+  <footer>
+     <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="https://github.com/emre4419/digital-garden-emre.git">Learning Log</a></li>
+      </ul>
+      </nav>
+  </footer>
   </body>
 </html>

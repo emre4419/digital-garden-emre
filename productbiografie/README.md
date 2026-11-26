@@ -149,7 +149,7 @@ Crazy 8:
 
 - Als huiswerk gingen we 4 bredere schetsen maken, deels gebasseerd op de crazy 8 en dat ging net wat meer over de lay-out van je digital-garden.
 
-readme-images/extra schetsen week 2 copy.png
+![alt text](<readme-images/4 schetsen week 3.png>)
 
 MOOIE KLEUREN, GRADIENTS, PATRONEN:
 
@@ -235,3 +235,23 @@ WOENSDAG 25 NOVEMBER - WERKGROEP:
 - Een grid biedt ruimte om te spelen (vrijheid), maar tegelijkertijd ook eenheid en structuur (vastigheid). Wat wordt hiermee bedoeld: Een grid werkt als een onzichtbaar skelet voor je ontwerp. Het bestaat uit vaste kolommen, rijen en marges. Een grid zorgt er dus juist voor dat je creatiever kunt zijn zonder dat het een rommeltje wordt. De structuur van een grid zorgt voor rust, consistentie en hiërarchie in de website.
 
 - Welk principe neem je mee in een laatste iteratie van je eigen Garden: 1: Gelijkheid, dit ga ik toepassen voor de tijdlijn in mijn ontwerp. Zoals ik al had vermeldt ik ga de tijdlijn centraal zetten, en dan is het wel handig als hij consistent en goed verdeelt is. Ook met de buttons bovenin het scherm wil ik gelijkheid gebruiken, maar ook continuïteit en sluiting passen goed bij mijn ontwerp, omdat de delen die nog niet te zien zijn, interacteerbaar worden en de bezoeker vanzelf het einde eraan wilt bekennen en dus dat het brein ontbrekende delen aanvult om een vorm compleet te zien.
+
+- DE LAATSTE LOODJES:
+
+- Ik begon met het coderen van mijn website in de les en thuis, ik kwam een heel end en zo zag het er uit op voor de deadline voor sprint 1:
+
+- Code van de index.html
+
+![alt text](<readme-images/sprint 1 index.html.png>)
+
+- Code voor de style.css
+
+![alt text](<readme-images/sprint 1 style.css.png>)
+
+![alt text](<readme-images/sprint 1 style.css 2.0.png>)
+
+- Look van de website (Light en Dark):
+
+![alt text](<readme-images/website na sprint 1.png>)
+
+Hiermee is sprint 1 afgerond!
