@@ -254,4 +254,4 @@ WOENSDAG 25 NOVEMBER - WERKGROEP:
 
 ![alt text](<readme-images/website na sprint 1.png>)
 
-Hiermee is sprint 1 afgerond!
+- Hiermee is sprint 1 afgerond!
