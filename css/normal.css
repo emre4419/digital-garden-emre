@@ -56,11 +56,11 @@ html:has( [value="dark-theme"]:checked ) {
 }
 
 label {
-  /* font-family: "Zen Dots"; */
-  /* font-size: smaller; */
-  /* color: var(--color); */
-  /* display: flex; */
-  /* align-items: flex-end; */
+  font-family: "Zen Dots";
+  font-size: smaller;
+  color: var(--color);
+  display: flex;
+  align-items: flex-end;
   transform: translate(-2%, 0%);
   text-align: center;
   justify-content: space-evenly;
