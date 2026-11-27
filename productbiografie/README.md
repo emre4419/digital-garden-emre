@@ -254,4 +254,12 @@ WOENSDAG 25 NOVEMBER - WERKGROEP:
 
 ![alt text](<readme-images/website na sprint 1.png>)
 
-- Hiermee is sprint 1 afgerond!
+VIJDAG 27 NOVEMBER - RESTROSPECTIVE:
+
+- Eerst gingen we met de hand een zelfevaluatie maken, dat ging vooral over jezelf. Toen hadden we gesprekjes en wat eruitkwam was:
+
+![alt text](<readme-images/zelfevaluatie sprint 1.png>)
+
+- Toen maakte we een retrospective, waarbij we een metafoor moesten schetsen. Mijn metafoor ging over dat je al denkt bij het einde te zijn, maar er nog meer targets zijn die je moet schieten, dus nog 2 sprinten. 
+
+![alt text](readme-images/retrospective.png)

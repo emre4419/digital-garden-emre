@@ -56,16 +56,24 @@ html:has( [value="dark-theme"]:checked ) {
 }
 
 label {
-  font-family: "Zen Dots";
-  font-size: smaller;
-  color: var(--color);
-  display: flex;
-  align-items: flex-end;
+  /* font-family: "Zen Dots"; */
+  /* font-size: smaller; */
+  /* color: var(--color); */
+  /* display: flex; */
+  /* align-items: flex-end; */
   transform: translate(-2%, 0%);
   text-align: center;
   justify-content: space-evenly;
   flex-direction: column;
   position: relative;
+
+  @media (width > 40em) {
+
+  }
+
+    @media (width > 60em) {
+
+  }
 }
 
 .home-button {
